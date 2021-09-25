@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedConstraint">
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="topRightRadius" format="dimension"/>
+        <attr name="topLeftRadius" format="dimension"/>
+        <attr name="bottomRightRadius" format="dimension"/>
+        <attr name="bottomLeftRadius" format="dimension"/>
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="colorBackground" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="RoundableLayout">
+        <attr name="cornerLeftTop" format="dimension"/>
+        <attr name="cornerRightTop" format="dimension"/>
+        <attr name="cornerLeftBottom" format="dimension"/>
+        <attr name="cornerRightBottom" format="dimension"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="strokeLineWidth" format="dimension"/>
+        <attr name="strokeLineColor" format="color"/>
+        <attr name="dashLineWidth" format="dimension"/>
+        <attr name="dashLineGap" format="dimension"/>
+
+        <attr name="cornerLeftSide" format="dimension"/>
+        <attr name="cornerRightSide" format="dimension"/>
+
+        <attr name="cornerAll" format="dimension"/>
+    </declare-styleable>
+</resources>
