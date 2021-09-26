@@ -25,6 +25,6 @@ allprojects {
   > Step 2. Add the dependency
   ```gradle
 dependencies {
-	implementation 'com.github.RezaRamadhanIrianto:froyout-ui:Tag'
+	implementation 'com.github.RezaRamadhanIrianto:froyout-ui:1.0.0'
 }
   ```
