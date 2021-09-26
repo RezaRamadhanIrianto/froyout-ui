@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "froyout-ui"
 include ':core'
+include ':app'
