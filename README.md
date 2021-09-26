@@ -16,15 +16,15 @@ Why name is Froyout? I hope this library will work from Froyo OS.
 
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
   ```
   > Step 2. Add the dependency
   ```gradle
-  dependencies {
-	        implementation 'com.github.RezaRamadhanIrianto:froyout-ui:Tag'
-	}
+dependencies {
+	implementation 'com.github.RezaRamadhanIrianto:froyout-ui:Tag'
+}
   ```
