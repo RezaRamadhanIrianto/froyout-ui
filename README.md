@@ -1,7 +1,7 @@
 # Froyout UI
 
 ### An Android UI Library Based On My Needs
-#### Why name is Froyout? I hope this library will work from Froyo OS.
+Why name is Froyout? I hope this library will work from Froyo OS.
 
 ### Future
 - Relative Rounded Layout 
