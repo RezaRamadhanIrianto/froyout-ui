@@ -6,7 +6,9 @@ Froyout UI
   <a href="https://github.com/RezaRamadhanIrianto/froyout-ui/stargazers">
     <img src="https://img.shields.io/badge/Say%20Thanks-👍-1EAEDB.svg" alt="Say thanks">
   </a>
-  [![](https://jitpack.io/v/RezaRamadhanIrianto/froyout-ui.svg)](https://jitpack.io/#RezaRamadhanIrianto/froyout-ui)
+  <a href="https://jitpack.io/#RezaRamadhanIrianto/froyout-ui">
+    <img src="https://jitpack.io/v/RezaRamadhanIrianto/froyout-ui.svg" alt="Version"/>
+  </a>
 </p>
 
 ### An Android UI Library Based On My Needs
