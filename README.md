@@ -24,7 +24,7 @@ Why name is Froyout? I hope this library will work from Froyo OS.
 
 ### If Error
 > Add Line below in manifest
-```manifest
+```xml
 tools:replace="android:theme"
 ```
 
