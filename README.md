@@ -1,5 +1,15 @@
-# Froyout UI
-[![](https://jitpack.io/v/RezaRamadhanIrianto/froyout-ui.svg)](https://jitpack.io/#RezaRamadhanIrianto/froyout-ui)
+<h1 align="center">
+<br/>
+Froyout UI
+</h1>
+<p align="center">
+  <a href="https://github.com/RezaRamadhanIrianto/froyout-ui/stargazers">
+    <img src="https://img.shields.io/badge/Say%20Thanks-👍-1EAEDB.svg" alt="Say thanks">
+  </a>
+  <a href="https://jitpack.io/#RezaRamadhanIrianto/froyout-ui">
+    <img src="https://jitpack.io/v/RezaRamadhanIrianto/froyout-ui.svg" alt="Version"/>
+  </a>
+</p>
 
 ### An Android UI Library Based On My Needs
 Why name is Froyout? I hope this library will work from Froyo OS.
@@ -26,6 +36,6 @@ allprojects {
   > Step 2. Add the dependency
   ```gradle
 dependencies {
-	implementation 'com.github.RezaRamadhanIrianto:froyout-ui:1.0.0'
+	implementation 'com.github.RezaRamadhanIrianto:froyout-ui:newest_version'
 }
   ```
