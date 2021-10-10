@@ -23,7 +23,7 @@ Why name is Froyout? I hope this library will work from Froyo OS.
 - Constraint Rounded Layout 
 
 ### If Error
-> Add 
+> Add Line below in manifest
 ```manifest
 tools:replace="android:theme"
 ```
