@@ -22,6 +22,12 @@ Why name is Froyout? I hope this library will work from Froyo OS.
 ### Feature
 - Constraint Rounded Layout 
 
+### If Error
+> Add Line below in manifest
+```xml
+tools:replace="android:theme"
+```
+
 ### How To Implement
 > Step 1. Add the JitPack repository to your build file
 
